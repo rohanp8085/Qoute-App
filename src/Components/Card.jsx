@@ -25,10 +25,15 @@ const Card = () => {
   if (!qoute) {
     return ( <>
    
-      <div className="spinner-border" role="status">
+   <button className="btn btn-emphasis " id='spinner' type="button" disabled>
+  <span className="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
   <span className="visually-hidden">Loading...</span>
-  
-</div></>
+</button>
+<button className="btn btn-emphasis " id='spinner' type="button" disabled>
+  <span className="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
+  Loading...
+</button>
+</>
     )
   }
     
