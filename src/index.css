@@ -18,24 +18,11 @@ body {
     align-items: center;
     width: 100%;
     justify-content: center;
-    
 }
-/* .date{
-  margin-left: 20px;
-  position: relative;
-  top: 120px;
-  left: 540px; */
-  /* font-size: 10px; */
-  
-/* } */
 .two{
   left: 500px;
-  /* font-size: 10px;/ */
 }
-.time{
 
-
-}
 #spinner{
   margin-top: 250px;
   /* text-align: center; */

@@ -52,7 +52,7 @@ const Card = () => {
         <div className="inner inner-one ">
         
 
-          <h1 className='hone'>Qoute-app</h1>
+          <h1 className='hone'>Qoute-app  </h1>
           <div className="box">
             <div className="triangle">
             </div>
